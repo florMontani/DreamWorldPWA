@@ -1,0 +1,99 @@
+.hidden{
+    display:none !important;
+}
+
+h1{
+    color: #0dcaf0;
+}
+
+main{
+    text-align: center;
+}
+section > .container{
+    margin-top: 2rem; 
+}
+header{
+    background-color: #0dcaf0;
+}
+a> .nav-link{
+    color:whitesmoke !important;
+}
+/* .search{
+    color: yellowgreen;
+} */
+.wrong{
+    color:red;
+}
+#filmLoad , #fav{
+    margin-bottom: 6rem;
+
+}
+.container .card {
+    margin-top: 3rem;
+    margin-left: 3rem;
+    margin-right: 3rem;
+    width:50%;
+    position: center!important;
+    justify-content: center;
+}
+.title{
+    margin-top: 2rem !important;
+    margin-bottom: 1rem !important;
+    color: #0dcaf0 !important;
+}
+
+#fav > div{
+    margin-bottom: 2rem !important;
+
+}
+
+#divtxt{
+    margin-top: 1rem;
+    text-align: left !important;
+}
+
+
+#divfav{
+    margin-top: 1rem;
+    text-align: left !important;
+}
+
+.info{
+    position: absolute;
+    right: auto;
+} 
+
+.boton{
+   text-align: center !important;
+   margin-top: 2rem !important;
+   margin-bottom: 1rem !important;
+   display:block !important;
+   width:40%;
+
+}
+
+.card-text{
+    text-align: left;
+    margin-bottom: 2rem !important;
+
+}
+
+body > main > footer > div.footer-top.container-fluid > p{
+    color:#0dcaf0;
+    font-weight: bold;
+}
+
+body{
+    position:relative;
+    padding-bottom: 3rem;
+    min-height:100vh;
+}
+
+footer{
+    position:absolute;
+    bottom: 0;
+    text-align: center;
+    justify-content: center;
+}
+
+
